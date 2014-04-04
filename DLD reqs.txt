@@ -1,0 +1,5 @@
+1 board 
+11 gates
+4 out of 6 chips
+	and or nand nor inv xor
+documentation is due 24 hours before class
